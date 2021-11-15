@@ -1,0 +1,11 @@
+.modalContainer {
+  width: 416px !important;
+  height: 479px;
+}
+
+.btnSignup {
+  height: 50px;
+  width: 100%;
+  background: #d60000 !important;
+  color: #fff !important;
+}

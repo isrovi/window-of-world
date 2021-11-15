@@ -1,0 +1,27 @@
+.modalContainer {
+  width: 408px !important;
+  height: 416px !important;
+  border-radius: 10px !important;
+}
+
+.modal-content {
+  width: 408px !important;
+  height: 416px !important;
+  border-radius: 10px !important; /*<!-- HERE I AM!---*/
+}
+
+.btnContainer {
+  font-weight: 400;
+  height: 50px;
+  width: 100%;
+  background: #d60000 !important;
+  color: #fff !important;
+}
+
+.no-borderRadiusImportant {
+  border-radius: 0px !important;
+}
+
+.cursor-link {
+  cursor: pointer;
+}
